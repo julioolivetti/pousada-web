@@ -1,0 +1,26 @@
+.back {
+    background-image: url('../assets/fundo.jpg');
+    height: 200px;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+li {
+    width: 25%;
+    text-align: left;
+    margin-top: 10px;  
+}
+.lista {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.quartos-img{
+
+    padding-bottom: 10px;
+  }
